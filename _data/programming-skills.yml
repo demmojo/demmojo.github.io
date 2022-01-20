@@ -1,0 +1,11 @@
+- name: Solidity
+  percentage: 90
+  color: danger
+
+- name: Django
+  percentage: 85
+  color:
+
+- name: Python
+  percentage: 85
+  color: secondary

@@ -1,0 +1,7 @@
+- name: Drone FPV/cinematography
+  percentage: 60
+  color: info
+
+- name: Rocket League
+  percentage: 99.9
+  color: success
