@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Mohamed Abdulaziz
+title               : Mohamed Hassan
 description         : >-
                       I like drones and MaxiMaxing on-chain sustainability :leaves:
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -22,7 +22,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Mohamed Abdulaziz
+  name              : Mohamed Hassan
   image             : src/main.jpg
 # behance           : your_username
 # dribbble          : your_username
